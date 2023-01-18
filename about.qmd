@@ -3,6 +3,3 @@ title: "About"
 ---
 
 This is a little blog about me. You probably think this is about me dont you?
-
-```{}
-```
